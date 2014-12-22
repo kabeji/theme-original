@@ -200,7 +200,7 @@ p {
 .navbar-inner {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #2eb18d;
+  background-color: #00aeff;
   background-image: none;
   background-repeat: no-repeat;
   filter: none;
@@ -348,6 +348,7 @@ h6 {
 }
 .post .post-content img {
   max-width: 100%;
+  height: auto;
 }
 .post .post-content .mejs-container {
   margin-top: 7.5px;
@@ -441,7 +442,7 @@ h6 {
 .bio {
   position: relative;
   background-color: #F5F5F5;
-  border-top: 2px solid #2eb18d;
+  border-top: 2px solid #00aeff;
   margin-top: 30px;
   margin-bottom: 20px;
   padding: 50px 30px 30px 30px;
